@@ -1,6 +1,6 @@
 # EasyGate1541
 
-![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/ImagesEasyGate1541.jpg)
 
 
 
@@ -16,7 +16,7 @@ The board itself is quite simple in construction. It consists basically only of 
 
 The whole then in the dimensions of a 40pin DIP IC. Since everything was soldered on the back, the front is "clean".
 
-![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_Top.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/ImagesEasyGate1541_Top.jpg)
 
 
 
@@ -32,7 +32,7 @@ And finally there is a Write LED, which always lights up when a write access tak
 
 If you don't want these LEDs, you can simply omit them. They are not needed for operation.
 
-![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_Bottom.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/Images/EasyGate1541_Bottom.jpg)
 
 
 
@@ -40,7 +40,7 @@ Where which LED color is used, I leave to personal taste. As a "serving suggesti
 
 
 
-![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_LEDs.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/Images/EasyGate1541_LEDs.jpg)
 
 
 
@@ -70,7 +70,7 @@ For a better overview, here is an illustration of how to connect the whole thing
 
 
 
-![](https://github.com/DL2DW/EasyGate1541/blob/main/Images/EasyGate1541_JTAG.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/Images/EasyGate1541_JTAG.jpg)
 
 
 
@@ -120,4 +120,4 @@ If you liked my project, I would be very happy about a small coffee donation.
 
 The contents of this repository is released under the following license:
 
-- the "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" (CC BY-NC-SA 4.0) full text of this license is included in the [LICENSE.CC-NC-BY-SA-4.0](https://github.com/DL2DW/EasyGate1541/blob/main/LICENSE.CC-NC-BY-SA) file and a copy can also be found at https://creativecommons.org/licenses/by-nc-sa/4.0/
+- the "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License" (CC BY-NC-SA 4.0) full text of this license is included in the [LICENSE.CC-NC-BY-SA-4.0](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/LICENSE.CC-NC-BY-SA) file and a copy can also be found at https://creativecommons.org/licenses/by-nc-sa/4.0/

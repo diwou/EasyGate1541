@@ -1,6 +1,6 @@
 # EasyGate1541
 
-![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/ImagesEasyGate1541.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/Images/EasyGate1541.jpg)
 
 
 
@@ -16,7 +16,7 @@ The board itself is quite simple in construction. It consists basically only of 
 
 The whole then in the dimensions of a 40pin DIP IC. Since everything was soldered on the back, the front is "clean".
 
-![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/ImagesEasyGate1541_Top.jpg)
+![](https://codeberg.org/diwou/EasyGate1541/raw/branch/main/Images/EasyGate1541_Top.jpg)
 
 
 
